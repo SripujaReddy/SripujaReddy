@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**SripujaReddy/SripujaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on Data Structures using Python<br>- 🌱 I’m currently learning node.js <br>- 👯 I’m looking to collaborate on Cloud technologies<br>- 🤔 I’m looking for help with Blockchainn<br>- 💬 Ask me about Mysql<br>- 📫 How to reach me: sripujareddy4@gmail.com<br>- 😄 Pronouns: she/her<br>
 
